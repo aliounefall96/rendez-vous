@@ -1,0 +1,77 @@
+.navbar{
+    position: fixed;
+    top: 0;
+}
+
+.titre{
+    color: #519e56;
+    font-weight: bold;
+    text-shadow: 0px 2px 2px #519e56;
+    font-size: 55px;
+    text-transform: capitalize;
+}
+
+.experience{
+    box-shadow: 4px 13px 22px 16px rgba(175, 175, 175,.5);
+    width: 270px;
+    height: 270px;
+    border-radius: 158px;
+    margin-top: auto;
+    margin-bottom: auto;
+    align-items: center;
+}
+
+.experience p{
+    color: rgb(1, 87, 1);
+    font-size: 30px;
+    font-weight: bold;
+    text-shadow: 0px 1px 1px #519e56;
+}
+
+.experience span{
+    font-size: 63px;
+}
+
+.g-img{
+    width: 90%; 
+    height: 300px;
+    border-radius: 18px;
+    box-shadow: 2px 7px 17px 4px rgba(175, 175, 175,.7);
+}
+
+.contact{
+    background-color: #cfece1;
+    position: relative;
+    right: 0;
+    left: 0;
+}
+
+.contact .p1{
+    font-size: 42px;
+    font-weight: 600;
+}
+
+.contact .p2, .contact .p3 {
+    font-size: 35px;
+    font-weight: 500;
+}
+
+.pied{
+    background-color: #1d9442;
+}
+
+.haut{
+    float: right;
+    background-color: #1d9442;
+    text-decoration: none;
+    position: fixed;
+    bottom: 56px;
+    right: 45px;
+    padding: 12px 6px 13px 8px;
+    border-radius: 38px;
+    color: white;
+    list-style-type: none;
+    width: 52px;
+    height: 52px;
+}
+
